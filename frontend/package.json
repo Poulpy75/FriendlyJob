@@ -56,7 +56,7 @@
     "classnames": "^2.2.6",
     "cloudinary-react": "^1.5.0",
     "date-fns": "^2.14.0",
-    "dompurify": "^2.0.11",
+    "dompurify": "^2.0.17",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "prop-types": "*",
